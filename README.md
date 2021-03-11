@@ -1,8 +1,9 @@
 Project Title: Newer Nonvolatile Solid-State Memory Technology 
 Team members/position:
-Leader: 	Aquino, Shannon Dale
-Rapporteur:	Casalme, Christian
-Gucilatar, Narold Jayson
+Leader: Aquino, Shannon Dale
+Rapporteur: Casalme, Christian
+            Gucilatar, Narold Jayson
+
 Brief Description:
 
 Nonvolatile memory is a type of memory that can retain data even when power is turned off. Typically, it is used as secondary storage and long-term storage. Examples of Nonvolatile memory are computer hard disks and flash drives. Only when reading and writing data does it require power. Nonvolatile memory is perfect for long retention of information.
