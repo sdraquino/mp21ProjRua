@@ -23,3 +23,25 @@ https://academic.oup.com/nsr/article/5/4/577/4093905?login=true
 https://venturebeat.com/2019/11/13/3-emerging-memory-technologies-that-will-change-how-you-handle-data/ 
 
 
+Phase II
+Table of Contents
+
+STT-RAM
+- Architecture
+	- Application
+
+PCRAM
+	- Architecture
+	- Hybrid Technology of PCRAM
+		- PCM and STT-RAM Hybrid
+		- PCRAM and DRAM Hybrid
+	- Application
+
+ReRAM
+	- Architecture
+	- Types of ReRAM
+		- OxRAM
+		- CBRAM
+	- Application
+
+
